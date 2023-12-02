@@ -1,1 +1,10 @@
-advent of code 2023
+advent of code
+
+runtime for all parts:
+
+------ 2023 ------
+day 1       0.006s
+
+
+------ 2022 ------
+day 1       0.007s
