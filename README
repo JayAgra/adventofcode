@@ -2,11 +2,12 @@ advent of code
 
 runtime for all parts (avg from 1000 runs):
 
------- 2023 ------
-day 1       0.001604s   Rust
-day 2       0.001266s   Rust
-day 3       0.187570s   Rust
+---------- 2023 ----------
+day 1        1.54 ms   Rust
+day 2        1.27 ms   Rust
+day 3      184.64 ms   Rust
+day 4        1.51 ms   Rust
 
 
------- 2022 ------
-day 1       0.001375s   Rust
+---------- 2022 ----------
+day 1        1.38 ms   Rust
