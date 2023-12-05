@@ -1,5 +1,9 @@
 advent of code
 
+you will need to insert your own input.txt content in the root directory of each project (in the same directory as Cargo.toml), and then build from the workspace directory (builds all projects):
+    cargo build -r
+find and run the executable, located in /target/release
+
 runtime for all parts (avg from 1000 runs):
 
 ---------- 2023 ----------
