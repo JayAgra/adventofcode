@@ -3,3 +3,4 @@
 *.DS_Store
 test.sh
 *input.txt
+*input_test.txt
