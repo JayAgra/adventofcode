@@ -1,12 +1,9 @@
 fn main() {
     let input_file: &str = include_str!("../input.txt");
     let histories: Vec<SandHistory> = get_histories(input_file);
-    // 18913 high
-    // -18913 wrong
     println!("{}, {}", get_predictions(&histories), get_part_2_predictions(&histories));
 }
 
-#[derive(Debug)]
 struct SandHistory {
     tree: Vec<Vec<i32>>,
 }

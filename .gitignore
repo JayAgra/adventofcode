@@ -4,3 +4,4 @@
 test.sh
 *input.txt
 *input_test.txt
+*/*.dSYM/*
